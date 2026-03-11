@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shubham Sahni</h1>
-<p align="center">
-Data Analyst | Data Engineering | Business Intelligence
-</p>
+<h3 align="center">Data Analyst</h3>
 
 <p align="center">
-📍 Germany  
-</p>
-
-<p align="center">
+📍 Germany <br>
 Detail-oriented data professional with 3+ years of experience transforming raw data into actionable insights.
 </p>
 
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 **Languages**
 
@@ -46,27 +41,27 @@ Detail-oriented data professional with 3+ years of experience transforming raw d
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-**Databricks Medallion Data Pipeline**  
-End-to-end lakehouse pipeline using Bronze-Silver-Gold architecture.
+🔹 **Databricks Medallion Data Pipeline**  
+End-to-end lakehouse pipeline using **Bronze-Silver-Gold architecture**
 
-**Snowflake ELT Pipeline with dbt**  
-Incremental ELT pipeline with automated transformations.
+🔹 **Snowflake ELT Pipeline with dbt**  
+Incremental data processing pipeline with automated transformations
 
-**Customer 360 Sales Dashboard**  
-Power BI dashboard analyzing pipeline performance and revenue forecasting.
+🔹 **Customer 360 Sales Dashboard**  
+Power BI dashboard analyzing **pipeline performance & revenue forecasting**
 
-**Weather Data Analysis (Python)**  
-API-based data ingestion and visualization of weather patterns.
+🔹 **Weather Data Analysis (Python)**  
+API-based data ingestion and visualization of **weather patterns**
 
-**FIFA World Cup Analytics Dashboard**  
-Interactive Tableau dashboard analyzing tournament performance trends.
+🔹 **FIFA World Cup Analytics Dashboard**  
+Interactive Tableau dashboard analyzing **tournament performance trends**
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
-📧 Email: shubham.sahni09@gmail.com  
+📧 Email: **shubham.sahni09@gmail.com**  
 💼 LinkedIn: https://linkedin.com/in/shubhamsahni  
 🌐 Website: https://sahni-hub.com/

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Sahni</h1>
-<h3 align="center">Data Analyst | Data Engineering | Business Intelligence</h3>
+<h3 align="center">Data Analyst</h3>
 
 <p align="center">
 📍 Germany <br>
@@ -56,12 +56,6 @@ Interactive Tableau dashboard analyzing **tournament performance trends**
 ---
 
 ## 🤝 Connect With Me
-
-## 📊 GitHub Stats
-
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamsahni09&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsahni09&layout=compact&theme=tokyonight)
 
 📧 Email: **shubham.sahni09@gmail.com**  
 💼 LinkedIn: https://linkedin.com/in/shubhamsahni  
